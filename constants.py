@@ -5,6 +5,8 @@ ASTEROID_MIN_RADIUS = 20
 ASTEROID_KINDS = 3
 ASTEROID_SPAWN_RATE = 0.8  # seconds
 ASTEROID_MAX_RADIUS = ASTEROID_MIN_RADIUS * ASTEROID_KINDS
+PLAYER_RADIUS = 20
 
-# Define black color using RGB values (Red, Green, Blue)
-BLACK = (0, 0, 0) # 0 for all colors means black
+# Color using RGB values (Red, Green, Blue)
+BLACK = (0, 0, 0) # 0 for all colors is black
+WHITE = (255,255,255) #255 for all colors is white
